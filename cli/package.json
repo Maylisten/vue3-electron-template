@@ -1,7 +1,7 @@
 {
   "name": "@xuhan57/create-vue3-electron-template",
   "version": "1.0.0",
-  "description": "vue3 项目脚手架",
+  "description": "vue3-electron 项目脚手架",
   "keywords": [
     "vue3-template",
     "vue",
